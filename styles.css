@@ -23,7 +23,7 @@ body{
     cursor: pointer; /* Pointer/hand icon */
     float: left; /* Float the buttons side by side */
     font-family: 'Montserrat', sans-serif;
-    font-size: 1em;
+    font-size: 1.3em;
     width: 10%;
     height: 113%;
   }
