@@ -61,7 +61,7 @@ body{
     width:50%;
   }
 
-  footer{
+  footer {
     position: absolute;
     bottom: 1.6em;
     left: 2em;
@@ -70,27 +70,28 @@ body{
   }
 
 h1 {
-    color: #4f4085;
-    font-size: 1000%;
-    padding-top: .05em;
-    padding-bottom: .05em;
-    padding-right: .05em;
-    padding-left: .2em;
-    font-family: "Imbue";
-    letter-spacing: .06em;
-    margin: 0em;
+  color: #4f4085;
+  font-size: 1000%;
+  padding-top: .05em;
+  padding-bottom: .05em;
+  padding-right: .05em;
+  padding-left: .2em;
+  font-family: "Imbue";
+  letter-spacing: .06em;
+  margin: 0em;
 }
 
 h2 {
   color: #4d4281;
-  font-size: 200%;
+  font-size: 160%;
   font-family: "Montserrat", sans-serif;
   letter-spacing: .06em;
   margin: 0em;
-  position: fixed; 
-  top: 5.2em; 
-  left: 3.2em;
+  position: fixed;
+  top: 6.6em;
+  left: 4em;
 }
+
 h3 {
   color: #82ac26;
   font-size: 200%;
