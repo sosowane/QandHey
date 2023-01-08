@@ -287,13 +287,13 @@ li:last-child {
 
   h2 {
     color: #82ac26;
-    font-size: 200%;
+    font-size: 150%;
     font-family: "Montserrat", sans-serif;
     letter-spacing: .02em;
     margin: 0em;
     position: fixed; 
-    top: 4.7em; 
-    left: 2.4em;
+    top: 7em; 
+    left: 4em;
   }
 
   h3 {
