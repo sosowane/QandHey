@@ -99,6 +99,7 @@ h3 {
   text-align: center;
   margin: 0em;
 }
+
 html {
   font-family:sans-serif;
   -ms-text-size-adjust:100%;
@@ -112,7 +113,6 @@ img {
   width: 55px;
   height: 55px;
 }
-
 
 legend{
   color: cornsilk;
@@ -139,7 +139,8 @@ section {
     font-size: 300%;
     text-align: center;
     color: #82ab27;
-    padding: 2em;
+    padding: 1.3em;
+    padding-top: 2.3em;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -299,7 +300,7 @@ li:last-child {
     section {
       font-size: 150%;
       text-align: center;
-      padding-top: 4em;
+      padding-top: 5em;
       font-family: 'Montserrat', sans-serif;
   }
 
